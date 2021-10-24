@@ -15,4 +15,4 @@ bibtex code
 
 # Need help?
 
-if you want to explore more or need some help, feel free to send your request via email to jhxu dotto acm.org 
+if you want to explore more or need some help, feel free to send your request via email to jhxu dotto acm.org or DM me in twitter
