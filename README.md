@@ -7,7 +7,7 @@ The dataset CS-lol follows [CC-BY-NC-SA-4.0](LICENSE). Thus, this dataset are fr
 
 # Citation
 
-if you use the developed tools and dataset, please kindly cite our paper:
+if you use the developed tools or dataset from this work, please kindly cite our paper:
 
 ```
 bibtex code
