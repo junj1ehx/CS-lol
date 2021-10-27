@@ -17,7 +17,7 @@ bibtex code
 
 ## Twitch (Comments)
 
-According to [Official narrative](https://www.twitch.tv/p/zh-tw/legal/terms-of-service/, 8. User Content) by Twitch
+According to [Official narrative](https://www.twitch.tv/p/zh-tw/legal/terms-of-service/) by Twitch
 
 ```
 8. User Content
