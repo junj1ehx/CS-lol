@@ -5,6 +5,8 @@ CS-lol: a Dataset for Audience Opinion Mining of E-sports Live-streaming
 
 The dataset CS-lol follows [CC-BY-NC-SA-4.0](LICENSE). Thus, this dataset are freely available for academic purpose or individual research, but restricted for commecial use.
 
+the source code [YouTube-vtt-to-srt.py](YouTube-vtt-to-srt.py) follows the MPL v2.0 license.
+
 # Citation
 
 if you use the developed tools or dataset from this work, please kindly cite our paper:
