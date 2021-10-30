@@ -40,6 +40,7 @@ All of contents used in this dataset use subtitles that automatically generated 
 
 Due to not sure about the license, alternatively we provide the script to download those subtitles as well as preprocessing script to transform it into the data expected using our implementation of retrieval models.
 
+To get Descriptions please follows [README.md](lolcs/description/README.md)
 
 # Need help?
 
