@@ -1,5 +1,5 @@
 # CS-lol
-CS-lol: a Dataset for Audience Opinion Mining of E-sports Live-streaming
+CS-lol: a Dataset of Viewer Comment with Scene in E-sports Live-streaming
 
 ## License
 
