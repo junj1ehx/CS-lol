@@ -12,7 +12,19 @@ the source code [YouTube-vtt-to-srt.py](YouTube-vtt-to-srt.py) is inherited from
 if you use the developed tools or dataset from this work, please kindly cite our paper:
 
 ```
-bibtex code
+
+@inproceedings{cslol,
+author = {Xu, Junjie H. and Nakano, Yu and Kong, Lingrong and Iizuka, Kojiro},
+title = {CS-Lol: A Dataset of Viewer Comment with Scene in E-Sports Live-Streaming},
+year = {2023},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+booktitle = {Proceedings of the 2023 Conference on Human Information Interaction and Retrieval},
+pages = {422–426},
+location = {Austin, TX, USA},
+series = {CHIIR '23}
+}
+
 ```
 
 # About usage of CS-lol
